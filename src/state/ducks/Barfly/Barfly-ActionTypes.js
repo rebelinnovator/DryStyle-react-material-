@@ -1,0 +1,6 @@
+
+const BARFLY_SET_MEMBERSHIP = 'BARFLY/SET_MEMBERSHIP';
+
+export default {
+    BARFLY_SET_MEMBERSHIP
+};
